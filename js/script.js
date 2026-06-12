@@ -56,7 +56,7 @@ const letterMessages = {
     },
     'rir': {
         title: '😄 Quando você quiser rir...',
-        message: 'Lembre-se daquele dia em que... [escreva um momento engraço aqui]. Rir é a melhor medicina, e adoro ver seu sorriso iluminar o mundo. Você tem um humor contagiante e uma alegria de viver que me inspira todos os dias. Nunca perca essa luz!'
+        message: 'Lembra todas as vezes em que eu fiz alguma careta, idiotice ou agi de uma maneira muito esquisita tentando arrancar um sorriso seu ?   Rir é o melhor remédio pra momentos difíceis, e adoro ver seu sorriso perfeito iluminar o mundo inteiro!. Você é paz, é luz e tudo de melhor que esse pode existir nesse mundo.'
     },
     'amor': {
         title: '❤️ Quando você quiser se sentir amada...',
